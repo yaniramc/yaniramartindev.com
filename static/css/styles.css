@@ -41,8 +41,23 @@ body {
 .about-me {
     background-color: white;
     color: black;
-    padding-bottom: 5px;
+    position: relative;
+    display: inline-block;
+    text-align: center;
 }
+
+.image-inicial {
+    filter: blur(3px);
+    opacity: 0.5;
+}
+
+.container-aboutme {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 
 
 .title-about-me {
