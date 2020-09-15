@@ -41,24 +41,8 @@ body {
 .about-me {
     background-color: white;
     color: black;
-    position: relative;
-    display: inline-block;
-    text-align: center;
+    padding-bottom: 5px;
 }
-
-.image-inicial {
-    filter: blur(3px);
-    opacity: 0.5;
-}
-
-.container-aboutme {
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
 
 .title-about-me {
     font-family: 'Cinzel';
