@@ -23,6 +23,10 @@ body {
     font-family: 'Cinzel', serif;
 }
 
+.navbar-toggler{
+    background-color: #A2CBEF;
+}
+
 
 .index {
     background-color: white;
