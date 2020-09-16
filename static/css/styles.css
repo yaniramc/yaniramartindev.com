@@ -40,10 +40,20 @@ body {
 }
 
 .about-me {
+    padding-bottom: 20px;
     background-color: white;
-    color: black;
-    padding-bottom: 5px;
 }
+
+.specialty-title {
+    font-family: 'Cinzel';
+    font-weight: bold;
+    color: #A2CBEF;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 
 .title-about-me {
     font-family: 'Cinzel';
@@ -74,9 +84,26 @@ body {
     padding-bottom: 100px;
 }
 
+.subtitle-services {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pricing {
+    padding-bottom: 100px;
+}
+
+.subtitle-pricing {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
 
 .title-tarifa {
-     margin-bottom: 30px;
      padding-top: 200px;
      color: #A2CBEF;
      font-weight: bold;
@@ -85,7 +112,6 @@ body {
 }
 
 .title-service {
-     margin-bottom: 30px;
      padding-top: 200px;
      color: #A2CBEF;
      font-weight: bold;
@@ -186,10 +212,16 @@ span {
 }
 
 .contact {
-
     padding-bottom: 100px;
     background-color: white;
     color: black;
+}
+
+.subtitle-contact {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 label {
@@ -245,8 +277,12 @@ footer {
 #email {
     font-family: 'Dancing Script', cursive;
     font-size: 26px;
-    margin-top: 50px;
+    margin-top: 30px;
     color: white;
+}
+
+#carouselExampleControls {
+    margin-top: 30px;
 }
 
 .copyright {
