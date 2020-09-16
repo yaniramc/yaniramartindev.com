@@ -232,7 +232,7 @@ label {
 }
 
 footer {
-    margin-top: 100px;
+    margin-top: 50px;
     font-family: 'Cinzel', serif;
     color: #7DA2C2;
     text-align: center;
@@ -250,7 +250,7 @@ footer {
 }
 
 .copyright {
-    margin-top: 100px;
+    margin-top: 50px;
     text-align: center;
     color: white;
 }
