@@ -4,17 +4,15 @@ body {
 
 
 #title {
-    font-size: 30px;
     font-family: 'Cinzel', serif;
     text-shadow: 0.3px 0.4px;
 }
 
 #sub-title {
-    font-size: 20px;
     color: #A2CBEF;
     font-family: 'Cinzel', serif;
+    font-size: 23px;
 }
-
 
 .navbar-collapse {
     margin-top: 30px;
