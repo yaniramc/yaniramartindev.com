@@ -209,6 +209,21 @@ span {
     margin-top: 35px;
 }
 
+.works {
+    padding-bottom: 100px;
+    background-color: white;
+    color: black;
+}
+
+.proyect-title {
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+
+.lead {
+    font-size: 18px;
+}
+
 .contact {
     padding-bottom: 100px;
     background-color: white;
